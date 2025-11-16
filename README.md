@@ -1,3 +1,5 @@
+该仓库已经暂停更新,请关注新版<a href="https://github.com/fs185085781/v9os" style="color:red;">V9OS</a>,该仓库将全面开源
+
 # 仿Windows 11 网页版 私有云
 # 腾飞Webos
 
